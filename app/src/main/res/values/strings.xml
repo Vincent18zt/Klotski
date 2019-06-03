@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">华容道</string>
+    <string name="text1">黄忠</string>
+    <string name="text2">曹操</string>
+    <string name="text3">张飞</string>
+    <string name="text4">马超</string>
+    <string name="text5">关羽</string>
+    <string name="text6">赵云</string>
+    <string name="text7">卒</string>
+    <string name="exit">退出游戏</string>
+    <string name="back">回退</string>
+    <string name="time">计时：</string>
+    <string name="showTime">0s</string>
+    <string name="step">计步：</string>
+    <string name="showStep">0步</string>
+    <string name="newGame">重新开始</string>
+    <string name="beginGame">开始游戏</string>
+    <string name="home">首页</string>
+    <string name="choose">选择关卡</string>
+    <string name="helper">游戏帮助</string>
+    <string name="history">历史记录</string>
+    <string name="clear">清空记录</string>
+</resources>
